@@ -1,0 +1,74 @@
+{
+  "american_english": {
+    "af_heart": "female",
+    "af_alloy": "female",
+    "af_aoede": "female",
+    "af_bella": "female",
+    "af_jessica": "female",
+    "af_kore": "female",
+    "af_nicole": "female",
+    "af_nova": "female",
+    "af_river": "female",
+    "af_sarah": "female",
+    "af_sky": "female",
+    "am_adam": "male",
+    "am_echo": "male",
+    "am_eric": "male",
+    "am_fenrir": "male",
+    "am_liam": "male",
+    "am_michael": "male",
+    "am_onyx": "male",
+    "am_puck": "male",
+    "am_santa": "male"
+  },
+  "british_english": {
+    "bf_alice": "female",
+    "bf_emma": "female",
+    "bf_isabella": "female",
+    "bf_lily": "female",
+    "bm_daniel": "male",
+    "bm_fable": "male",
+    "bm_george": "male",
+    "bm_lewis": "male"
+  },
+  "japanese": {
+    "jf_alpha": "female",
+    "jf_gongitsune": "female",
+    "jf_nezumi": "female",
+    "jf_tebukuro": "female",
+    "jm_kumo": "male"
+  },
+  "mandarin_chinese": {
+    "zf_xiaobei": "female",
+    "zf_xiaoni": "female",
+    "zf_xiaoxiao": "female",
+    "zf_xiaoyi": "female",
+    "zm_yunjian": "male",
+    "zm_yunxi": "male",
+    "zm_yunxia": "male",
+    "zm_yunyang": "male"
+  },
+  "spanish": {
+    "ef_dora": "female",
+    "em_alex": "male",
+    "em_santa": "male"
+  },
+  "french": {
+    "ff_siwis": "female"
+  },
+  "hindi": {
+    "hf_alpha": "female",
+    "hf_beta": "female",
+    "hm_omega": "male",
+    "hm_psi": "male"
+  },
+  "italian": {
+    "if_sara": "female",
+    "im_nicola": "male"
+  },
+  "brazilian_portuguese": {
+    "pf_dora": "female",
+    "pm_alex": "male",
+    "pm_santa": "male"
+  }
+}
